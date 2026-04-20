@@ -1,6 +1,6 @@
 # Terms Of Services for General Motors Dex
 
-**
+**Last Updated** *4/19/2026 / *4-19-2026* / April 19th 2026
 
 By using the **GM Dex** Discord Bot, you agree to the following Terms of Service. If you do not agree with these terms, do not use the Bot.
 
@@ -58,7 +58,7 @@ We reserve the right to:
 * Banned from the offical server
 * no appeals from blacklist and ban from support server
 
-…if the Bot is used in a way that violates these terms.
+if the Bot is used in a way that violates these terms.
 
 ***
 
