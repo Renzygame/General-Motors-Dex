@@ -1,4 +1,4 @@
-# Terms Of Services for General Motors Dex
+# Terms Of Services
 
 **Last Updated** *4/19/2026* / *4-19-2026* / *April 19th 2026*
 
