@@ -1,4 +1,4 @@
-# Privacy Policy for General Motors Dex
+# Privacy Policy
 
 **Last Updated:** *4/19/2026* / *4-19-2026* / April 19 2026
 
